@@ -1,7 +1,6 @@
 # HỆ THỐNG QUẢN TRỊ HẠ TẦNG & NHẬT KÝ KỸ THUẬT (GREENTECH)
 
 > **Tác giả:** Lê Phúc Duy  
-> **Repository:** `[Tên_Lớp]_[Môn_Học]_MiniProject_GreenTech`
 
 ---
 
